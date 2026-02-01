@@ -13,19 +13,19 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A personal portfolio built with React and Tailwind CSS",
-    image: "/assets/imageCard1.png",
+    image: "/assets/image_card1.png",
     link: "https://portfolio-rho-ivory-76.vercel.app/",
   },
   {
     title: "Todo App",
     description: "A simple todo app built with HTML, CSS, and JavaScript",
-    image: "/assets/imageCard2.png",
+    image: "/assets/image_card2.png",
     link: "https://sann-py.github.io/todo/",
   },
   {
     title: "Quiz App",
     description: "A basic app built with react js and tailwind css",
-    image: "/assets/imageCard3.png",
+    image: "/assets/image_card3.png",
     link: "https://quiz2-snowy.vercel.app/",
   },
 ];
