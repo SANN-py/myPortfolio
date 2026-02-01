@@ -16,7 +16,7 @@ const AboutSection = () => (
       {/* Profile Image */}
       <div className="mb-8 md:mb-0 flex shrink-0">
         <img
-          src="/public/assets/profile.png"
+          src="/assets/profile.png"
           alt="Kim Mao"
           className="w-64 h-64 rounded-full object-cover shadow-lg border-4 border-blue-500"
         />
